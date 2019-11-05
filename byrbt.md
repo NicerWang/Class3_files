@@ -67,6 +67,7 @@
 ### 可以参考 "注意事项"中北邮人官网的免流方法（复杂）
  <font color=blue size=8>[免流设置](https://bt.byr.cn/faq.php#question42)</font>
 ### 或者！！！进入南开大学校园网网关 (Easy)
+    PS:不退出登陆也可以免流量，但是有一定
  <font color=blue size=8>[网关系统](http://202.113.18.106)</font>
   点击注销(logout)
  **注意进入自服务关闭自动mac无感知登陆**
